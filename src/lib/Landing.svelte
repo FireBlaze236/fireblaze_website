@@ -73,5 +73,5 @@
   <a class="company" href="https://www.snaptrude.com" target="_blank">{currentCompany}</a>
   <p class="contact">Email: <a href="mailto:{email}">{email}</a></p>
   <a class="button-link" href={resumePath} target="_blank">CV</a>
-  <button class="button-link" on:click={toggle} target="_blank">Portfolio</button>
+  <!--<button class="button-link" on:click={toggle} target="_blank">Portfolio</button> -->
 </div>
