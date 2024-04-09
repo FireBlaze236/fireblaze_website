@@ -4,7 +4,7 @@
   let email = "taufiqul.alam1207@gmail.com";
   let currentTitle = "Software Engineer - Graphics";
   let currentCompany = "Snaptrude";
-  let resumePath = '../../public/taufiq_cv.pdf';
+  let resumePath = 'https://drive.google.com/file/d/1_ReCB0Zn-2RmIYL2tgfUIrjWIVXD8wFv/view?usp=drive_link';
 
   let linkedIn = "https://www.linkedin.com/in/taufiqul-alam-988b5a1b0/";
   let github = "https://github.com/FireBlaze236";
