@@ -1,7 +1,7 @@
 <script lang="ts">
   import profilePhoto from '../assets/profile.jpg'
   let name = "Taufiqul Alam";
-  let email = "taufiqul.alam1207@gmail.com";
+  let email = "saminps3@gmail.com";
   let currentTitle = "Software Engineer - Graphics";
   let currentCompany = "Snaptrude";
   let resumePath = '../../public/taufiq_cv.pdf';
